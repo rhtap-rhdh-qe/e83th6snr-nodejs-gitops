@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: e83th6snr-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/e83th6snr-nodejs-gitops
